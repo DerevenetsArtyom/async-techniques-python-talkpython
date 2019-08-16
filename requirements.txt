@@ -1,1 +1,2 @@
 colorama==0.4.1
+uvloop==0.13.0
