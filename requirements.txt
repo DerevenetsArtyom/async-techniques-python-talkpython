@@ -3,3 +3,6 @@ uvloop==0.13.0
 aiohttp==3.5.4
 requests==2.22.0
 bs4==0.0.1
+unsync==1.2.1
+trio==0.12.1
+trio-asyncio==0.10.0
