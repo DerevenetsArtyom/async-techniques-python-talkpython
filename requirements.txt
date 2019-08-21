@@ -7,3 +7,4 @@ unsync==1.2.1
 trio==0.8.0
 trio-asyncio==0.8.0
 flask==1.1.1
+quart==0.9.1
