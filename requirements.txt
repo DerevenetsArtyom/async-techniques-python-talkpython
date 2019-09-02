@@ -8,3 +8,4 @@ trio==0.8.0
 trio-asyncio==0.8.0
 flask==1.1.1
 quart==0.9.1
+cython==0.29.13
