@@ -6,6 +6,6 @@ bs4==0.0.1
 unsync==1.2.1
 trio==0.8.0
 trio-asyncio==0.8.0
-flask==1.1.1
+flask==2.3.2
 quart==0.9.1
 cython==0.29.13
